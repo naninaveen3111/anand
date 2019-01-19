@@ -1,0 +1,4 @@
+mkdir jony{1..5}
+rm -rf jony3
+touch file{1..4}
+rm file2
